@@ -1,4 +1,4 @@
 # Rifa-Libros
 
-Quiero regalar mis libros de la carrera. La idea es rifarlos al azar entre aquellos que me los pidieron a través de una forma de 
-Google. Este proyecto se conecta mediante la API de Google Sheets a la spreadsheet generada por la forma para obtener los datos de los interesados y sortearlos al azar.
+El rifa-libros es una herramienta que me permite regalar al azar los libros que fui acumulando en la carrera. 
+El código utiliza la [API][https://developers.google.com/sheets/api] de Google Sheets 
